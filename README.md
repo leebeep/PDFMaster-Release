@@ -83,7 +83,7 @@ PDF ↔ 图片 · PDF 转 Word · 电子书转 PDF · PDF 压缩 · 双层 PDF�
 ## 💬 反馈与支持
 
 - **问题反馈 / 功能建议**：[提交 Issue](https://github.com/leebeep/PDFMaster-Release/issues)
-- **邮件联系**：techjun@163.com
+- **邮件联系**：heawave@163.com
 
 提交 Issue 时请尽量附上：操作系统版本、PDFMaster 版本号、操作步骤、（如可复现）示例文件描述。
 
